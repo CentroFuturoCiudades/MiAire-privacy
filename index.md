@@ -1,6 +1,6 @@
 # Política de Privacidad de HealthWind
 
-*Última actualización: 15 de julio de 2026*
+*Última actualización: 13 de julio de 2026*
 
 ## Resumen
 
@@ -28,6 +28,7 @@ Puedes limitar esta precisión en cualquier momento activando la opción **"Ubic
 
 - Tu ubicación (latitud y longitud) se envía a nuestro servidor únicamente para calcular qué sensor está más cerca.
 - El servidor está hospedado en **Microsoft Azure (West US 2, Estados Unidos)**. Microsoft actúa como procesador de datos bajo los términos del [Data Protection Addendum de Microsoft](https://www.microsoft.com/licensing/docs/view/Microsoft-Products-and-Services-Data-Protection-Addendum-DPA).
+- Nuestra base de datos (**Azure Database for PostgreSQL**) almacena únicamente información pública de los sensores de calidad del aire; **no** guarda tu ubicación ni ningún dato personal de usuarios.
 - **NO** almacenamos un historial de tus ubicaciones.
 - **NO** asociamos tu ubicación con ningún identificador personal.
 - La ubicación se usa solo en el momento de la consulta y se descarta inmediatamente después.
@@ -79,7 +80,7 @@ HealthWind no está dirigida a menores de 13 años y no recolecta intencionalmen
 ## Seguridad
 
 - Las comunicaciones con nuestro servidor usan **HTTPS (TLS 1.2+)**.
-- No almacenamos datos personales en nuestros servidores.
+- No almacenamos tu ubicación ni datos que te identifiquen directamente. La única excepción son los logs técnicos (dirección IP y marca de tiempo) descritos en la sección *"Logs técnicos del servidor"*, que se conservan un máximo de 30 días con fines de seguridad y se eliminan automáticamente.
 - La infraestructura de Microsoft Azure cumple con las certificaciones ISO 27001, SOC 2 y otras normas internacionales de seguridad.
 
 ## Tus derechos
