@@ -1,10 +1,10 @@
-# Política de Privacidad de HealthWind
+# Política de Privacidad de MiAire
 
-*Última actualización: 13 de julio de 2026*
+*Última actualización: 22 de julio de 2026*
 
 ## Resumen
 
-HealthWind es una aplicación informativa sobre calidad del aire desarrollada por el Tecnológico de Monterrey. Usamos tu ubicación únicamente para mostrarte información del sensor más cercano a ti. No creamos cuentas de usuario ni almacenamos datos personales identificables.
+MiAire es una aplicación informativa sobre calidad del aire desarrollada por el Tecnológico de Monterrey. Usamos tu ubicación únicamente para mostrarte información del sensor más cercano a ti. No creamos cuentas de usuario ni almacenamos datos personales identificables.
 
 ## Responsable del tratamiento de datos
 
@@ -17,12 +17,12 @@ Av. Eugenio Garza Sada 2501 Sur, Tecnológico, Distrito Tec, 64700 Monterrey, Nu
 
 ### Ubicación
 
-HealthWind solicita acceso a tu ubicación con precisión aproximada de 100 metros para:
+MiAire solicita acceso a tu ubicación con precisión aproximada de 100 metros para:
 
 - Encontrar el sensor de calidad del aire más cercano a ti.
 - Mostrarte información relevante de tu zona en el mapa.
 
-Puedes limitar esta precisión en cualquier momento activando la opción **"Ubicación precisa: Apagado"** en *Configuración > HealthWind > Ubicación*. En ese caso, iOS entregará a la app una ubicación aproximada (~3 km) y HealthWind seguirá funcionando con menor exactitud al calcular el sensor más cercano.
+Puedes limitar esta precisión en cualquier momento activando la opción **"Ubicación precisa: Apagado"** en *Configuración > MiAire > Ubicación*. En ese caso, iOS entregará a la app una ubicación aproximada (~3 km) y MiAire seguirá funcionando con menor exactitud al calcular el sensor más cercano.
 
 ### Cómo procesamos tu ubicación
 
@@ -35,7 +35,7 @@ Puedes limitar esta precisión en cualquier momento activando la opción **"Ubic
 
 ### Transferencia internacional de datos
 
-Al usar HealthWind, aceptas que tu ubicación se transfiera temporalmente a servidores ubicados en **Estados Unidos** (Microsoft Azure, región West US 2) para su procesamiento. Esta transferencia se realiza:
+Al usar MiAire, aceptas que tu ubicación se transfiera temporalmente a servidores ubicados en **Estados Unidos** (Microsoft Azure, región West US 2) para su procesamiento. Esta transferencia se realiza:
 
 - Únicamente para calcular el sensor más cercano a tu ubicación.
 - Sin almacenamiento posterior de la ubicación transmitida.
@@ -59,15 +59,15 @@ Para operación y seguridad, nuestro servidor genera logs con dirección IP y ma
 
 ## SDKs de terceros
 
-HealthWind **no integra ningún SDK de analítica, publicidad o tracking**. Las únicas bibliotecas de terceros que utiliza la app son componentes de renderizado visual (imágenes y Markdown) que no envían datos a servidores externos.
+MiAire **no integra ningún SDK de analítica, publicidad o tracking**. Las únicas bibliotecas de terceros que utiliza la app son componentes de renderizado visual (imágenes y Markdown) que no envían datos a servidores externos.
 
 ## App Tracking Transparency (iOS)
 
-HealthWind **no rastrea tu actividad** a través de aplicaciones o sitios web de otras compañías. Por lo tanto, no solicitamos el permiso de *App Tracking Transparency* de iOS.
+MiAire **no rastrea tu actividad** a través de aplicaciones o sitios web de otras compañías. Por lo tanto, no solicitamos el permiso de *App Tracking Transparency* de iOS.
 
 ## Datos de menores de edad
 
-HealthWind no está dirigida a menores de edad y no recolecta intencionalmente información de niñas o niños. La app no solicita datos personales ni permite crear cuentas, por lo que no pide información que pueda identificar a un menor.
+MiAire no está dirigida a menores de edad y no recolecta intencionalmente información de niñas o niños. La app no solicita datos personales ni permite crear cuentas, por lo que no pide información que pueda identificar a un menor.
 
 Si eres madre, padre o tutor y crees que un menor a tu cargo nos ha proporcionado datos personales, contáctanos en las direcciones de la sección *"Contacto"* y atenderemos tu solicitud.
 
@@ -92,7 +92,7 @@ Si eres madre, padre o tutor y crees que un menor a tu cargo nos ha proporcionad
 Puedes revocar el acceso a tu ubicación en cualquier momento:
 
 1. Abre **Configuración** en tu iPhone.
-2. Busca **HealthWind**.
+2. Busca **MiAire**.
 3. Toca **Ubicación**.
 4. Selecciona **"Nunca"** para revocar el permiso.
 
@@ -100,7 +100,7 @@ Si revocas el permiso de ubicación, podrás seguir usando la app para ver la li
 
 ### Derechos ARCO (Ley Federal de Protección de Datos Personales en Posesión de los Particulares — México)
 
-Como titular de datos tienes derecho al **Acceso, Rectificación, Cancelación y Oposición** (derechos ARCO) del uso de tus datos personales. Aunque HealthWind no almacena datos personales identificables, puedes ejercer estos derechos o hacer cualquier pregunta relacionada con privacidad escribiendo a los contactos listados abajo.
+Como titular de datos tienes derecho al **Acceso, Rectificación, Cancelación y Oposición** (derechos ARCO) del uso de tus datos personales. Aunque MiAire no almacena datos personales identificables, puedes ejercer estos derechos o hacer cualquier pregunta relacionada con privacidad escribiendo a los contactos listados abajo.
 
 ## Marco legal
 
@@ -120,4 +120,4 @@ Para preguntas sobre privacidad, ejercer tus derechos ARCO o cualquier tema rela
 
 ---
 
-*HealthWind es un proyecto desarrollado por el Tecnológico de Monterrey.*
+*MiAire es un proyecto desarrollado por el Tecnológico de Monterrey.*
